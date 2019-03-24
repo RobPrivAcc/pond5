@@ -1,4 +1,4 @@
-# Pond5 interview test code
+# Pond5 - interview test code
 ## Project objectives
 
 The service should provide the following rest API and must be written in Python or PHP:
